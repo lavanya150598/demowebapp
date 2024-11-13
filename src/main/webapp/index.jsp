@@ -10,8 +10,8 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My job is done with jenkins one click deplyoment for practise tutorials</h1>
-      <h2 class="text-center">Welcome devOps team lavanya,anush,varma,Aaradhaya,lathika</h2>
+      <h1 class="text-center">welcome to devops academy</h1>
+      <h2 class="text-center">lavanya,likitha,swara,lalasa,varma,vamika,anush</h2>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
